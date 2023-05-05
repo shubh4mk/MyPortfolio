@@ -139,6 +139,7 @@
     background: var(--eerie-black-2);
     border: 1px solid var(--jet);
     border-radius: 20px;
+    border-color: var(--orange-yellow-crayola);
     padding: 15px;
     box-shadow: var(--shadow-1);
     z-index: 1;
@@ -414,6 +415,7 @@
     backdrop-filter: blur(10px);
     border: 1px solid var(--jet);
     border-radius: 12px 12px 0 0;
+    border-color: white;
     box-shadow: var(--shadow-2);
     z-index: 5;
   }
